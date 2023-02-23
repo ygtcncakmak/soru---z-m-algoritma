@@ -1,0 +1,5 @@
+a=int(input("sayi1"))
+b=int(input("sayi2"))
+print(a+b)
+print(a-b)
+print(a*b)
